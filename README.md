@@ -95,14 +95,3 @@ git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 ```
 
-Then just open `index.html` in your browser, or serve it locally:
-
-```bash
-# Option 1: VS Code Live Server extension
-# Option 2: Python
-python3 -m http.server 5500
-```
-
-## 📄 License
-
-This project is licensed under the MIT License.
