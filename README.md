@@ -20,14 +20,6 @@ A responsive contact management web app built with vanilla JavaScript, Bootstrap
 - Fully responsive layout (mobile, tablet, desktop)
 - Data persisted in `localStorage` — no backend required
 
-## 🖼️ Screenshots
-
-> Add your own screenshots here, e.g.:
->
-> ```md
-> ![Desktop view](./screenshots/desktop.png)
-> ![Mobile view](./screenshots/mobile.png)
-> ```
 
 ## 🧩 Tech Stack
 
